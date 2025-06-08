@@ -3,6 +3,9 @@ name = "src"
 version = "0.0.1"
 description = "An MLOps project for productionizing models"
 authors = [{name = "Stephen Ferrao", email = "stephenferrao20@gmail.com"}]
+dependencies = [
+    "pymongo>=4.13.0",
+]
 
 [tool.setuptools]
 packages = {find = {}}
