@@ -168,6 +168,7 @@ cython_debug/
 #.idea/
 cred.txt
 notebook
+artifact
 # Abstra
 # Abstra is an AI-powered process automation framework.
 # Ignore directories containing user credentials, local state, and settings.
